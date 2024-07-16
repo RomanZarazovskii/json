@@ -1,21 +1,21 @@
 {
-  "name": "practiceparcel",
+  "name": "json",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://PanasenkoValeriy.github.io/practiceparcel",
+  "homepage": "https://RomanZarazovskii.github.io/json",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /practiceparcel/"
+    "build": "parcel build src/*.html --public-url /json/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PanasenkoValeriy/practiceparcel.git"
+    "url": "git+https://github.com/RomanZarazovskii/json.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PanasenkoValeriy/practiceparcel/issues"
+    "url": "https://github.com/RomanZarazovskii/json/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
